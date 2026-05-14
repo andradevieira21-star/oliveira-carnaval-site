@@ -1,0 +1,21 @@
+{
+  "name": "Oliveira Carnaval Advocacia",
+  "short_name": "Oliveira Carnaval",
+  "description": "Escritório de advocacia especializado em Direito da Saúde",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4A4D50",
+  "background_color": "#FAF6EF",
+  "display": "browser",
+  "start_url": "/"
+}

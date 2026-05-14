@@ -1,0 +1,21 @@
+# robots.txt - Oliveira Carnaval Advocacia
+# Permite indexação completa do site
+
+User-agent: *
+Allow: /
+
+# Bloquear bots conhecidos de spam/scraping agressivo
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Localização do sitemap
+Sitemap: https://oliveiracarnavaladvocacia.com.br/sitemap.xml
